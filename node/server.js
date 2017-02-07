@@ -11,7 +11,7 @@ var Mongo = require('mongodb').MongoClient; // MongoDB driver
 var keyCache = {}; // public key cache
 
 const MONGO_URL = 'mongodb://localhost:27017/apcsp';
-const CLIENT_ID = '955192429695-5dcrirs5op9vnq8a1t2tvrruhesqcvmc.apps.googleusercontent.com';
+const CLIENT_ID = '762396300974-lu7br087vhn0q61028sj6orq2k0tk1tg.apps.googleusercontent.com';
 
 /**
  * MongoDB operations
